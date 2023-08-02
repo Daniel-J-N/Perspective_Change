@@ -1,4 +1,4 @@
-# Perspective_Change
+# Perspective_Change Development
 This program is for practicing multiplication tables. 
 It generates 5 random multiplication questions for the user to answer. 
 After completing the quiz, the program provides feedback on the user's performance, marks, and time taken.
